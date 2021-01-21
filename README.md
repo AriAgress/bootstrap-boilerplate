@@ -6,8 +6,8 @@ A basic bootstrap boilerplate or starter template.
 
 ## Prerequisites
 
-- HTML ~~should know this if you're looking through my README~~
-- CSS ~~should know this if you're looking through my README~~
+- HTML ~~you should know this if you're looking through my README~~
+- CSS ~~you should know this if you're looking through my README~~
 - Bootstrap
 - Internet
 
@@ -20,7 +20,10 @@ https://getbootstrap.com/docs/4.5/getting-started/download/
 [Contribution guidlines for this project](https://github.com/AriAgress/bootstrap-boilerplate/tree/readme)
 
 ## Example
-
+1. Example of button click
+! [example of button click]()
+2. Example of nav bar menu
+! [example of nav bar menu]()
 ## Task List
 
 - [x] Download bootstrap
@@ -28,7 +31,8 @@ https://getbootstrap.com/docs/4.5/getting-started/download/
 - [ ] Code the rest of the website
 
 ### License
-
+LICENSE.md
+README.md
 ### Citation
 
 | Item      | Link to source |
